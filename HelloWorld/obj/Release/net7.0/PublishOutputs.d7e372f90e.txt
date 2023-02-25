@@ -1,0 +1,5 @@
+C:\Users\atbar\OneDrive\Documents\MyCodes\CC-CSharp-DotNet\HelloWorld\bin\Release\net7.0\publish\HelloWorld.exe
+C:\Users\atbar\OneDrive\Documents\MyCodes\CC-CSharp-DotNet\HelloWorld\bin\Release\net7.0\publish\HelloWorld.dll
+C:\Users\atbar\OneDrive\Documents\MyCodes\CC-CSharp-DotNet\HelloWorld\bin\Release\net7.0\publish\HelloWorld.deps.json
+C:\Users\atbar\OneDrive\Documents\MyCodes\CC-CSharp-DotNet\HelloWorld\bin\Release\net7.0\publish\HelloWorld.runtimeconfig.json
+C:\Users\atbar\OneDrive\Documents\MyCodes\CC-CSharp-DotNet\HelloWorld\bin\Release\net7.0\publish\HelloWorld.pdb
